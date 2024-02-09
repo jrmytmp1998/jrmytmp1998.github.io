@@ -1,0 +1,50 @@
+body{
+
+background:red;
+padding:0;
+margin :0;
+top:0;
+}
+
+#style_header-1{
+    height: 15%;
+	width:100%;
+    background-repeat:no-repeat;
+	  
+}
+
+.img{
+	
+  
+    height: 60%;
+    width: 100%;
+    display: block;
+    position: absolute;
+	
+}
+
+	#style_header-2{
+    background: white;
+    height: 70%;
+    display: block;
+    width: 100%;
+    position: relative;
+    max-height: fit-content;
+}		
+#style_header-3{
+	
+	 background: green;
+    height: 15%;
+    display: block;
+    width: 100%;
+   position: relative; 
+}
+
+.content{
+	
+	background: yellow;
+	width:100%;
+	height:100%;
+	display: block;
+	position: absolute;
+}
